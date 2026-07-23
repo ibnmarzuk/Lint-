@@ -1,0 +1,6 @@
+{
+  "name": "$LINT",
+  "description": "The Coin Caught In Everyone's Pocket - A fictional memecoin branding concept and landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
